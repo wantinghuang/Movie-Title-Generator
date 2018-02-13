@@ -1,8 +1,11 @@
 # Movie Title Generator
 # 電影名稱生成器
 
-Generator a movie title from its script
+Generate a movie title from its script
 給定電影台詞，為這個電影生成名稱。
+
+* 有了電影台詞，即可透過 movie_title_generator(task1).ipynb 程式生成電影名稱。
+
 
 ## 國立交通大學 106上 自然語言處理 Final Project
 
@@ -24,7 +27,6 @@ For each movie script in **input** folder, generate a suitable movie title.
 
 Each line should consist of a **movie_id**, which is the filename of the movie script, and a gererated **movie title** seperated by **a tab**.
 
-* If your group is caught modifying the output manually, you'll get 0 point in this task.
 
 ## Authors
 
