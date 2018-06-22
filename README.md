@@ -2,7 +2,7 @@
 
 Generate a movie title from its script
 
-# 電影名稱生成器
+## 電影名稱生成器
 
 給定電影台詞，為這個電影生成名稱。
 
