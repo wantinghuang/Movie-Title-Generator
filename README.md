@@ -8,8 +8,9 @@ Generate a movie title from its script
 
 * 有了電影台詞，即可透過 movie_title_generator(task1).ipynb 程式生成電影名稱。
 
+(國立交通大學 106上 自然語言處理 Final Project)
 
-### 國立交通大學 106上 自然語言處理 Final Project
+## Dataset
 
 ### Input
 
